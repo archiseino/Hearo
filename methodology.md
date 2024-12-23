@@ -46,12 +46,12 @@ pengumuman penting, serta memberikan respons yang relevan.</li>
 
     <h2 id="content">Rancangan Blok Arsitektur Prototype</h2>
     <span class="image fit">
-      <img src="{% link /assets/images/diagram-architecture.png %}" alt="" />
+      <img src="{{ site.baseurl }}/{% link assets/images/diagram-architecture.png %}" alt="Architecture Diagram">
     </span>
 
     <h2 id="content">Komponen Dasar Prototype</h2>
     <span class="image fit">
-      <img src="{% link /assets/images/glasses-architecture.jpg %}" alt="" />
+      <img src="{{ site.baseurl }}/{% link assets/images/glasses-architecture.jpg %}" alt="" />
     </span>
     
     <h4>Key Points</h4>
