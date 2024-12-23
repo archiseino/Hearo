@@ -15,12 +15,12 @@ url: "https://archiseino.github.io"
 
 ## Biography Based on 
 # author:
-# street_address: 201 S. Columbia Street
-# city: Chapel Hill
-# state: NC
-# zip_code: 27599
-# country: United States of America
-# phone: (919) 590 6000
+street_address: 201 S. Columbia Street
+city: Chapel Hill
+state: NC
+zip_code: 27599
+country: United States of America
+phone: (919) 590 6000
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
