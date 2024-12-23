@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: How Does This Work?
+description: Bagaimana alat ini dapat membantu orang tuli dalam berkomunikasi 
 image: assets/images/banner.jpg
 nav-menu: true
 ---

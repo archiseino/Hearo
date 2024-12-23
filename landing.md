@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+title: Blog & News
+layout: Blodg & News
+description: "Read our latest news"
 image: assets/images/forty.jpg
 nav-menu: true
 ---
