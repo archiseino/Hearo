@@ -1,30 +1,43 @@
-## Hear-o
-Smart Glasses Solution for Deaf People
+# Hear-o
+Kacamata pintar dengan teknologi live caption dan kesadaran konteks untuk membantu penyandang disabilitas pendengaran tetap terhubung, kapan saja dan di mana saja
 
-# Forty - Jekyll Theme
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Lab Logo" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code Logo" width="100" />
+</p>
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+---
 
-# How to Use
+## **Anggota Kelompok**
+| **Nama**                 | **NIM**     |**ID GITHUB**                                     |
+|--------------------------|-------------|--------------------------------------------------|
+| Arsyadana Estu Aziz | 121140068 |<a href="https://github.com/archiseino">@Archiseino</a> |
+| Muhammad Addin | 121140024 |<a href="https://github.com/Addin-121140024">@Addin-121140024</a> |
+| Attar Akram Abdillah     | 121140013 |<a href="https://github.com/attarakram121140013">@attarakram121140013</a> |
+
+---
+
+## **Deskripsi Proyek**
+Kacamata pintar, seperti Hearo Glasses, dirancang untuk mengatasi permasalahan ini. Dengan kemampuan untuk mengubah suara menjadi teks secara real-time, perangkat ini menawarkan solusi inovatif yang memungkinkan individu dengan gangguan pendengaran untuk tetap memahami percakapan atau pengumuman penting dengan membaca teks yang ditampilkan di layar kacamata. Integrasi teknologi seperti speech-to-text dan context awareness memberikan nilai tambah yang signifikan dalam mendukung kehidupan inklusif bagi semua individu.
+
+---
+
+## **How to Clone**
+1. Fork / Clone this repo
+2. Activate the Github Actions on the Settings / Pages. 
+	> From this you may to make a new workflow or use my default workflow
+3. Enjoy
+
+#### Note:
+Github pages work by storing some cache I think, so after a push / deployment delete the cache first before observe the updated content.
 
 For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
-Simply fork this repository and start editing the `_config.yml` file!
-
-> NOTE: GitHub Actions is required to deploy to GitHub Pages because GitHub [refuses to update their version of Jekyll](https://github.com/github/pages-gem/issues/651).
-
-# Added Features
-
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* Set **featured images** in front matter.
-
-# Credits
+## **Credits / Referensi Template**
 
 Original README from HTML5 UP:
 

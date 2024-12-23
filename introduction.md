@@ -72,7 +72,7 @@ mendukung kehidupan inklusif bagi semua individu.</p>
 			</tr>
 			<tr>
 				<td>Attar Akram Abdillah</td>
-				<td>121140024</td>
+				<td>121140013</td>
 				<td>Kang Desain / Bagian Illustrasi dan Poster</td>
 			</tr>
 			<tr>
