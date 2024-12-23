@@ -45,4 +45,43 @@
 			}
 		}
 	}
-	
+
+	.video-container {
+		position: relative;
+		padding-bottom: 56.25%; /* 16:9 aspect ratio */
+		height: 0;
+		overflow: hidden;
+		max-width: 100%;
+	}
+
+	.video-container iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+	.posts {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+		gap: 2rem;
+	}
+
+	.posts article {
+		border: 1px solid #e0e0e0;
+		padding: 1rem;
+		border-radius: 8px;
+	}
+
+	.posts article .image img {
+		width: 100%;
+		border-radius: 8px 8px 0 0;
+	}
+
+	.posts article h3 {
+		margin: 1rem 0 0.5rem;
+	}
+
+	.posts article .actions {
+		margin-top: 1rem;
+	}

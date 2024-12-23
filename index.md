@@ -7,12 +7,12 @@ image: null
 author: null
 show_tile: false
 faq:
-  - question: "What is this website about?"
-    answer: "This site is about showcasing our projects and sharing knowledge."
-  - question: "How can I contact support?"
-    answer: "You can reach us via the contact page or email us directly."
-  - question: "Is this site mobile-friendly?"
-    answer: "Absolutely! Our site is fully responsive and works on all devices."
+  - question: "Apa fungsi utama kacamata pintar ini?"
+    answer: "Fungsi utama kacamata pintar ini adalah menyediakan live caption secara real-time untuk membantu pengguna yang memiliki gangguan pendengaran memahami percakapan di sekitarnya."
+  - question: "Apakah kacamata ini dapat digunakan di berbagai kondisi?"
+    answer: "Ya, kacamata ini dirancang dengan konsep ubiquitous, sehingga dapat digunakan di mana saja dan kapan saja. Sistemnya juga dilengkapi dengan kesadaran konteks untuk menyesuaikan layanan berdasarkan lingkungan dan kebutuhan pengguna."
+  - question: "Apakah produk ini ramah lingkungan?"
+    answer: "Kami sangat memperhatikan keberlanjutan dengan mengintegrasikan efisiensi energi dalam desain perangkat serta menggunakan bahan yang dapat didaur ulang"
 ---
 
 This was a text
