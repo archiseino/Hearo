@@ -1,4 +1,4 @@
-## Simplified
+<!-- ## Simplified -->
 ```mermaid
 graph TD
 
