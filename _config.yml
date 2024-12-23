@@ -11,7 +11,7 @@ description: Kacamata pintar dengan teknologi live caption dan kesadaran konteks
 
 ## Url (Host Protocol and Name)
 baseurl: "/Hearo" # /Hearo : Change to "" for local development
-url: https://archiseino.github.io
+url: "https://archiseino.github.io"
 
 ## Biography Based on 
 # author:
