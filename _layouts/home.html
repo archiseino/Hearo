@@ -33,16 +33,26 @@
         <!-- One -->
         {% include tiles.html %}
 
-        <!-- Two -->
+    <!-- Two -->
         <section id="two">
             <div class="inner">
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h2>FAQ</h2>
                 </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
+                <div class="faq">
+                    {% if page.faq %}
+                        <ul class="faq-list">
+                            {% for item in page.faq %}
+                                <li>
+                                    <h4>{{ item.question }}</h4>
+                                    <p>{{ item.answer }}</p>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    {% else %}
+                        <p>No FAQ available at the moment.</p>
+                    {% endif %}
+                </div>
             </div>
         </section>
 
