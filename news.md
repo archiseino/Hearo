@@ -21,7 +21,7 @@ nav-menu: true
         {% for post in site.posts %}
         <article>
           {% if post.image %}
-          <a href="{{ post.url }}" class="image">
+          <a href="{{ site.baseurl }}/{{ post.url }}" class="image">
             <img src="{{ post.image }}" alt="{{ post.title }}">
           </a>
           {% endif %}
