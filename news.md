@@ -1,8 +1,8 @@
 ---
 title: Blog & News
-layout: Blodg & News
+layout: blog
 description: "Read our latest news"
-image: assets/images/forty.jpg
+image: assets/images/pic08.jpg
 nav-menu: true
 ---
 

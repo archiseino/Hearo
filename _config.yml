@@ -10,17 +10,17 @@ email: hear.o@gmail.com
 description: Kacamata pintar dengan teknologi live caption dan kesadaran konteks untuk membantu penyandang disabilitas pendengaran tetap terhubung, kapan saja dan di mana saja
 
 ## Url (Host Protocol and Name)
-baseurl: "/Hearo" # /Hearo : Change to "" for local development
+baseurl: "" # /Hearo : Change to "" for local development
 url: "https://archiseino.github.io"
 
 ## Biography Based on 
 # author:
-street_address: 201 S. Columbia Street
-city: Chapel Hill
-state: NC
-zip_code: 27599
-country: United States of America
-phone: (919) 590 6000
+street_address: Jalan Terusan Ryacudu, Way Hui
+city: Kec. Jati Agung
+state: Kabupaten Lampung Selatan
+zip_code: 35352
+country: Bandar Lampung
+phone: (+64) 0590 7853 6000
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

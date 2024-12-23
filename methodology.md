@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: How Does This Work?
 description: Bagaimana alat ini dapat membantu orang tuli dalam berkomunikasi 
-image: assets/images/banner.jpg
+image: assets/images/glassses-architecture.png
 nav-menu: true
 ---
 

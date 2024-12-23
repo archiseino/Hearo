@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to Our Site'
+landing-title: 'Kacamata Pintar Untuk Orang Tunarungu'
 description: null
 image: null
 author: null
