@@ -1,44 +1,45 @@
-# site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+## Config.yml
+
+## Site Settings
+
+## Navigation Nav Title
+title: Hearo
+subtitle: Semi Smart Glasses Solution
+email: hear.o@gmail.com
+
+description: Kacamata pintar dengan teknologi live caption dan kesadaran konteks untuk membantu penyandang disabilitas pendengaran tetap terhubung, kapan saja dan di mana saja
+
+## Url (Host Protocol and Name)
+baseurl: "/Hearo" # /Hearo : Change to "" for local development
+url: "https://archiseino.github.io"
+
+## Biography Based on 
+# author:
+# street_address: 201 S. Columbia Street
+# city: Chapel Hill
+# state: NC
+# zip_code: 27599
+# country: United States of America
+# phone: (919) 590 6000
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
-socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/cssguncch/
+github_url: https://github.com/unc-cs-sg
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
 
 # build settings
 markdown: kramdown
 
 sass:
   style: compressed
-
-exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
