@@ -1,15 +1,17 @@
-name: Deploy to GitHub Pages
+## This was older one and be replaced with the jekyll-gh-pages.yml
 
-on:
-  push:
-    branches:
-      - master
+# name: Deploy to GitHub Pages
 
-jobs:
-  github-pages:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses:  helaili/jekyll-action@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+# on:
+#   push:
+#     branches:
+#       - master
+
+# jobs:
+#   github-pages:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses:  helaili/jekyll-action@v2
+#         with:
+#           token: ${{ secrets.GITHUB_TOKEN }}
