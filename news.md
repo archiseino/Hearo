@@ -13,7 +13,7 @@ nav-menu: true
   <section id="blog">
     <div class="inner">
       <header class="major">
-        <h2>Latest Blog Posts</h2>
+        <h2>Latest Resources Posts</h2>
       </header>
       
       <!-- Loop through posts -->

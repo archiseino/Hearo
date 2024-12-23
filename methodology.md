@@ -2,7 +2,7 @@
 layout: page
 title: How Does This Work?
 description: Bagaimana alat ini dapat membantu orang tuli dalam berkomunikasi 
-image: assets/images/glasses-architecture.png
+image: assets/images/glasses-architecture.jpg
 nav-menu: true
 ---
 
@@ -46,12 +46,12 @@ pengumuman penting, serta memberikan respons yang relevan.</li>
 
     <h2 id="content">Rancangan Blok Arsitektur Prototype</h2>
     <span class="image fit">
-      <img src="{% link assets/images/diagram-architecture.png %}" alt="" />
+      <img src="{% link /assets/images/diagram-architecture.png %}" alt="" />
     </span>
 
     <h2 id="content">Komponen Dasar Prototype</h2>
     <span class="image fit">
-      <img src="{% link assets/images/glasses-architecture.jpg %}" alt="" />
+      <img src="{% link /assets/images/glasses-architecture.jpg %}" alt="" />
     </span>
     
     <h4>Key Points</h4>
