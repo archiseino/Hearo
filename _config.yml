@@ -10,7 +10,7 @@ email: hear.o@gmail.com
 description: Kacamata pintar dengan teknologi live caption dan kesadaran konteks untuk membantu penyandang disabilitas pendengaran tetap terhubung, kapan saja dan di mana saja
 
 ## Url (Host Protocol and Name)
-baseurl: "" # /Hearo : Change to "" for local development
+baseurl: "/Hearo" # /Hearo : Change to "" for local development
 url: "https://archiseino.github.io"
 
 ## Biography Based on 
