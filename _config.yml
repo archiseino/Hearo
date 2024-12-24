@@ -10,7 +10,7 @@ email: hear.o@gmail.com
 description: Kacamata pintar dengan teknologi live caption dan kesadaran konteks untuk membantu penyandang disabilitas pendengaran tetap terhubung, kapan saja dan di mana saja
 
 ## Url (Host Protocol and Name)
-baseurl: "/Hearo" # /Hearo : Change to "" for local development
+baseurl: "" # /Hearo : Change to "" for local development
 url: "https://archiseino.github.io"
 
 ## Biography Based on 
@@ -21,6 +21,11 @@ state: Kabupaten Lampung Selatan
 zip_code: 35352
 country: Bandar Lampung
 phone: (+64) 0590 7853 6000
+
+## Treat _pages as static ones.
+collections:
+  pages:
+    output: true
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

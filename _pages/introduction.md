@@ -54,7 +54,6 @@ mendukung kehidupan inklusif bagi semua individu.</p>
 <!-- Elements -->
 <h2 id="elements">Annggota Kelompok</h2>
 
-<h4>Default</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
